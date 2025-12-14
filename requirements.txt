@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pinecone==3.1.0
+tiktoken
+python-dotenv
+pydantic
+langchain-openai
